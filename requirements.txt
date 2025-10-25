@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+streamlit_webrtc
+ultralytics
+streamlit_option_menu
+scikit-learn
+torch
+torchvision
+pinecone
+ffmpy
+streamlit-authenticator==0.1.5
